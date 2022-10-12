@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43153164075",
+    "project_id": "soriana-tracker",
+    "storage_bucket": "soriana-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43153164075:android:41dacc6c6306c4ad40276e",
+        "android_client_info": {
+          "package_name": "com.example.soriana_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43153164075-6pv39oeqp9aoaau9fjcm7k69p725712q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soriana_tracker",
+            "certificate_hash": "0beb3a6f1e057451139f83cb22925dd537e04eba"
+          }
+        },
+        {
+          "client_id": "43153164075-iab564i8ob8sphfh8bd7fb1akh1f3e6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa09g3hOPKRLmSbgZPMVeTjLQwrRhWb_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43153164075-iab564i8ob8sphfh8bd7fb1akh1f3e6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,16 +1,10 @@
-# soriana_tracker
+<h3> Admin dashboard to admin a tracking service from local physical stores and vehicles. using BLOC and FIREBASE</h3>
 
-A new Flutter project.
+<h3> Login </h3>
+<br> <img width= "600" src = "https://github.com/osvaneal93/tracker_web/blob/main/screenshots/2022-10-12.png"> <br>
 
-## Getting Started
+<h3> Home </h3>
+<br> <img width= "600" src= "https://github.com/osvaneal93/tracker_web/blob/main/screenshots/2022-10-12%20(1).png"><br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3> Register</h3>
+<br> <img width= "600" src= "https://github.com/osvaneal93/tracker_web/blob/main/screenshots/2022-10-12%20(2).png"><br>
